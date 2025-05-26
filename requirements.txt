@@ -1,0 +1,13 @@
+apscheduler[mongo]
+azure-storage-file-share
+celery
+datetime
+dotenv
+logging
+openai
+pandas
+pika
+pymongo
+redis
+stomp.py
+tiktoken
